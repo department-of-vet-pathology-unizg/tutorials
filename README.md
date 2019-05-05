@@ -13,4 +13,4 @@ Education should be a shared experience. The teacher is important as a facilitat
 
 
 # List of Tutorials
-[**Microscope Automation**](https://github.com/department-of-vet-pathology-unizg/tutorials/blob/master/notebooks/microscope_automation.ipynb)
+[**Microscope_Automation.ipynb**](https://github.com/department-of-vet-pathology-unizg/tutorials/blob/master/notebooks/microscope_automation.ipynb)
