@@ -8,7 +8,7 @@ For the generations that are now entering higher education, on the other hand, b
 
 Education should be a shared experience. The teacher is important as a facilitator and guide, but the students have to teach each other. This project is designed in the way to facilitate that process and every student is encouraged to write and publish tutorials that could benefit himself and others.
 
-*This text is adapted from **The Third Industrial Revolution** by **Jeremy Rifkin**
+*This text is adapted from _The Third Industrial Revolution_ by _Jeremy Rifkin_.
 
 
 
