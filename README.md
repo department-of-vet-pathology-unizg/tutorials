@@ -2,7 +2,7 @@
 [**Microscope_Automation.ipynb**](https://github.com/department-of-vet-pathology-unizg/tutorials/blob/master/notebooks/microscope_automation.ipynb)
 
 # Other Resources
-[**Linux Yourney**](https://linuxjourney.com/) - A great resource for learning Linux
+[**Linux Journey**](https://linuxjourney.com/) - A great resource for learning Linux
 
 ---
 
