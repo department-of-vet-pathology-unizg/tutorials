@@ -1,4 +1,5 @@
 # List of Tutorials
+[**Python_Introduction**](https://github.com/department-of-vet-pathology-unizg/tutorials/blob/master/notebooks/Python_Introduction.ipynb)
 [**Microscope_Automation.ipynb**](https://github.com/department-of-vet-pathology-unizg/tutorials/blob/master/notebooks/microscope_automation.ipynb)
 
 # Other Resources
