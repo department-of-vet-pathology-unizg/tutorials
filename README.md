@@ -8,7 +8,7 @@
 
 ---
 
-# Motivation
+# Goals and Motivation
 
 Our goal is to apply Deep Learning in automating and developing more accurate, faster and less expensive diagnostic procedures in pathology. 
 
