@@ -8,6 +8,16 @@
 
 ---
 
+# Motivation
+
+Our goal is to apply Deep Learning to veterinary pathology.  Deep Learning is a set of algorithms that enables a computer to learn something from previous examples, in a way similar to how humans learn. For this reason, in media they are more often termed "Artificial Intelligence".
+
+Problems can only be solved by people who are familiar with them. Computer scientists won’t be able to solve the majority of problems in veterinary medicine, but veterinarians can, not just because they are the ones who are confronted with these problems every day, but also because they have the medical expertise needed for collecting and labeling medical images.
+
+In data science, it is often far more important to have a deep understanding of the data than it is to have a PhD in statistics. 
+For these reasons, there is a high, unfilled demand for data scientists with a background in medicine. We hope that students on this project will continue to develop in this field after graduating from VEF. 
+
+
 # Our Position on Education
 
 There is a profound change in the way how generations that grew up on the Internet define freedom and community. Today's education should reflect that!
