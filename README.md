@@ -10,7 +10,7 @@
 
 # Motivation
 
-Our goal is to apply Deep Learning to veterinary pathology.  Deep Learning is a set of algorithms that enables a computer to learn something from previous examples, in a way similar to how humans learn. For this reason, in media they are more often termed "Artificial Intelligence".
+Our goal is to apply Deep Learning to veterinary pathology.  Deep Learning is a set of algorithms that enables a computer to learn something from previous examples, in a way similar to how humans learn. For this reason, in media they are more often called "Artificial Intelligence".
 
 Problems can only be solved by people who are familiar with them. Computer scientists won’t be able to solve the majority of problems in veterinary medicine, but veterinarians can, not just because they are the ones who are confronted with these problems every day, but also because they have the medical expertise needed for collecting and labeling medical images.
 
