@@ -14,12 +14,11 @@
 
 Our goal is to apply Deep Learning in automating and developing more accurate, faster and less expensive diagnostic procedures in pathology. Deep Learning is a set of algorithms that enables a computer to learn something from previous examples, in a way similar to how humans learn. For this reason, in media they are more often called "Artificial Intelligence".
 
-Problems can only be solved by people who are familiar with them. Computer scientists won’t be able to solve the majority of problems in veterinary medicine, but veterinarians can, not just because they are the ones who are confronted with these problems every day, but also because they have the medical expertise needed for collecting and labeling medical images.
+Deep learning has proven to be an extremely effective technique for a broad range of computer vision task. Today, there is a high, unfilled demand for data scientists with a background in medicine. This is because it is often far more important to have a deep understanding of the data than it is to have a PhD in statistics. We hope that students on this project will continue to develop in this field after graduating from VEF. 
 
-In data science, it is often far more important to have a deep understanding of the data than it is to have a PhD in statistics. 
-For these reasons, there is a high, unfilled demand for data scientists with a background in medicine. We hope that students on this project will continue to develop in this field after graduating from VEF. 
+It is important to remember that this is, first and foremost,  a student project. To keep our students highly motivated, it is important to give them an opportunity to work on meaningful projects. We are always trying to choose problems that are not only important to solve but, once they are solved, can also be tested and used directly for various diagnostic procedures on our department.
 
-To keep our students highly motivated, it is important to give them an opportunity to work on meaningful projects. We are always trying to choose problems that are not only important to solve but, once they are solved, can also be directly tested and used for various diagnostic procedures on our department.
+We'll be using Python as our programming language and Linux as OS.
 
 # Our Position on Education
 
