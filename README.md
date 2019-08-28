@@ -25,8 +25,6 @@ We'll be using **Python** as our programming language and **Linux** as OS.
 Our tutorial [Python_Introduction.ipynb](https://github.com/department-of-vet-pathology-unizg/tutorials/blob/master/notebooks/Python_Introduction.ipynb) explains why we are using Python and can also serve as a quick crash course on the Python programming language.
 
 
-# Linux
-
 # Our Position on Education
 
 There is a profound change in the way how generations that grew up on the Internet define freedom and community. Today's education should reflect that!
