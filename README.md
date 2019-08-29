@@ -32,7 +32,7 @@ In data science, Linux OS is the standard. A majority of data science companies 
 
 "_fastai v1 currently **supports Linux only**, and requires PyTorch v1 and Python 3.6 or later. Windows support is at an experimental stage: it should work fine but it's much slower and less well tested. Since Macs don't currently have good Nvidia GPU support, we do not currently prioritize Mac development._"
 
-Linux is also faster than Windows. Take a look at a [Clear Linux](https://clearlinux.org/), a Linux OS developed by Intel and optimized for deep learning.
+Linux is also faster than Windows. Take a look at a [Clear Linux](https://clearlinux.org/), a Linux OS developed by Intel and optimized for deep learning. It is ridiculously fast.
 
 # Our Position on Education
 
