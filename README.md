@@ -28,11 +28,11 @@ Our tutorial [Python_Introduction.ipynb](https://github.com/department-of-vet-pa
 
 # Linux
 
-In data science, Linux OS is the standard. A large majority of data science companies are using Linux as their primary OS. As a result, libraries that we will be using are also more stable and faster on Linux than on Windows. For example, this is a paragraph taken from fast.ai (deep learning library) GitHub page:
+In data science, Linux OS is the standard. A majority of data science companies are using Linux as their primary OS. As a result, libraries that we will be using are also more stable and faster on Linux than on Windows. For example, this is a paragraph taken from fast.ai (deep learning library) GitHub page:
 
 "_fastai v1 currently **supports Linux only**, and requires PyTorch v1 and Python 3.6 or later. Windows support is at an experimental stage: it should work fine but it's much slower and less well tested. Since Macs don't currently have good Nvidia GPU support, we do not currently prioritize Mac development._"
 
-Linux is also faster than Windows. Just take a look at a [Clear Linux](https://clearlinux.org/) as an example, a Linux OS developed by Intel and optimized for deep learning.
+Linux is also faster than Windows. Take a look at a [Clear Linux](https://clearlinux.org/), a Linux OS developed by Intel and optimized for deep learning.
 
 # Our Position on Education
 
