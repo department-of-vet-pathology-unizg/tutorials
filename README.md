@@ -34,6 +34,8 @@ In data science, Linux OS is the standard. A majority of data science companies 
 
 Linux is also faster than Windows. Take a look at a [Clear Linux](https://clearlinux.org/), a Linux OS developed by Intel and optimized for deep learning. It is ridiculously fast.
 
+It is clear that, when we are talking about platform support, the majority of resources are directed toward Linux. Cloud computing platforms, as well as services used for deploying deep learning models, are leveraging Linux. Windows 10 is becoming less and less relevant in this field, and our students need to become familiar with Linux.
+
 # Our Position on Education
 
 There is a profound change in the way how generations that grew up on the Internet define freedom and community. Today's education should reflect that!
