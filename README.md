@@ -1,9 +1,9 @@
 # List of Tutorials
-[**Python_Introduction.ipynb**](https://github.com/department-of-vet-pathology-unizg/tutorials/blob/master/notebooks/Python_Introduction.ipynb)
+[**Python_Introduction.ipynb**](https://nbviewer.jupyter.org/github/department-of-vet-pathology-unizg/tutorials/blob/master/notebooks/Python_Introduction.ipynb)
 
-[**Problem-Solving_Skill.ipynb**](https://github.com/department-of-vet-pathology-unizg/tutorials/blob/master/notebooks/Problem-Solving_Skill.ipynb)
+[**Problem-Solving_Skill.ipynb**](https://nbviewer.jupyter.org/github/department-of-vet-pathology-unizg/tutorials/blob/master/notebooks/Problem-Solving_Skill.ipynb)
 
-[**Microscope_Automation.ipynb**](https://github.com/department-of-vet-pathology-unizg/tutorials/blob/master/notebooks/Microscope_Automation.ipynb)
+[**Microscope_Automation.ipynb**](https://nbviewer.jupyter.org/github/department-of-vet-pathology-unizg/tutorials/blob/master/notebooks/Microscope_Automation.ipynb)
 
 # Other Resources
 [**Linux Journey**](https://linuxjourney.com/) - A great resource for learning Linux
@@ -23,7 +23,7 @@ We'll be using **Python** as our programming language and **Linux** as OS.
 
 # Python
 
-Our tutorial [Python_Introduction.ipynb](https://github.com/department-of-vet-pathology-unizg/tutorials/blob/master/notebooks/Python_Introduction.ipynb) explains why we are using Python and can also serve as a quick crash course on the Python programming language.
+Our tutorial [Python_Introduction.ipynb](https://nbviewer.jupyter.org/github/department-of-vet-pathology-unizg/tutorials/blob/master/notebooks/Python_Introduction.ipynb) explains why we are using Python and can also serve as a quick crash course on the Python programming language.
 
 
 # Linux
