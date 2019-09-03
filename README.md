@@ -14,7 +14,7 @@
 
 Our goal is to apply Deep Learning in automating and developing more accurate, faster and less expensive diagnostic procedures in pathology. Deep learning is a set of algorithms that enables a computer to learn something from previous examples, in a way similar to how humans learn. For this reason, in media they are more often called "Artificial Intelligence".
 
-Deep learning has proven to be an extremely effective technique for a broad range of computer vision task, especially in medicine. As it is often far more important to have a deep understanding of the data than it is to have a PhD in statistics, there is a high, unfilled demand for data scientists with a background in medicine. We hope that students on this project will continue to develop in this field after graduating from VEF.
+Deep learning has proven to be an extremely effective technique for a broad range of computer vision task, especially in medicine. It is often more important to have a deep understanding of the data than it is to have a PhD in statistics and, as a result, there is a high, unfilled demand for data scientists with a background in medicine. We hope that students on this project will continue to develop in this field after graduating from VEF.
 
 It is important to remember that this is first and foremost a student project. To keep our students highly motivated, it is crucial to give them an opportunity to work on meaningful projects. We are always trying to choose problems that are not only important to solve but, once they are solved, can also be tested and used directly for various diagnostic procedures on our department.
 
