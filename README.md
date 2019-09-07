@@ -32,7 +32,7 @@ In data science, Linux is the standard. A majority of data science companies are
 
 "_fastai v1 currently **supports Linux only**, and requires PyTorch v1 and Python 3.6 or later. Windows support is at an experimental stage: it should work fine but it's much slower and less well tested. Since Macs don't currently have good Nvidia GPU support, we do not currently prioritize Mac development._"
 
-Compared to Windows, Linux is also faster in everyday tasks. Take a look at a [Clear Linux](https://clearlinux.org/developer), a Linux OS developed by Intel (and optimized for deep learning). It is ridiculously fast.
+Compared to Windows, Linux is also faster in everyday tasks. Take a look at a [Clear Linux](https://clearlinux.org), a Linux OS developed by Intel (and optimized for deep learning). It is ridiculously fast.
 
 It is clear that, when we are talking about platform support, the majority of resources are directed toward Linux. Cloud computing platforms, as well as services used for deploying deep learning models, are leveraging Linux. Windows 10 is becoming less and less relevant in this field, and our students need to become familiar with Linux.
 
