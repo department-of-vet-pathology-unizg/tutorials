@@ -8,6 +8,8 @@
 # Other Resources
 [**Linux Journey**](https://linuxjourney.com/) - A great resource for learning Linux
 
+[**Jupyter notebook**](https://nbviewer.jupyter.org/github/fastai/course-v3/blob/master/nbs/dl1/00_notebook_tutorial.ipynb) - A quick tutorial on jupyter notebook 
+
 ---
 
 # Motivation
