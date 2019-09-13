@@ -18,7 +18,7 @@ Deep learning has proven to be an extremely effective technique for a broad rang
 
 It is important to remember that this is first and foremost a student project. To keep our students highly motivated, it is crucial to give them an opportunity to work on meaningful projects. We are always trying to choose problems that are not only important to solve but, once they are solved, can also be tested and used directly for various diagnostic procedures on our department.
 
-We'll be using **Python** as our programming language and **Linux** as OS.
+We'll be using **Python** as our programming language, **[Jupyter notebook](https://nbviewer.jupyter.org/github/fastai/course-v3/blob/master/nbs/dl1/00_notebook_tutorial.ipynb)** as programming environment and **Linux** as OS.
 
 
 # Python
