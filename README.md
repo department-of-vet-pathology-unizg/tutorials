@@ -10,6 +10,8 @@
 
 [**Jupyter notebook**](https://nbviewer.jupyter.org/github/fastai/course-v3/blob/master/nbs/dl1/00_notebook_tutorial.ipynb) - A quick tutorial on jupyter notebook 
 
+[**fast.ai**](https://course.fast.ai/) - deep learning course
+
 ---
 
 # Motivation
@@ -36,7 +38,7 @@ In data science, Linux is the standard. A majority of data science companies are
 
 Compared to Windows, Linux is also faster in everyday tasks. Take a look at a [Clear Linux](https://clearlinux.org/about), a Linux OS developed by Intel. It is ridiculously fast.
 
-It is clear that, when we are talking about platform support, the majority of resources are directed toward Linux. Cloud computing platforms, as well as services used for deploying deep learning models, are leveraging Linux. Windows 10 is becoming less and less relevant in this field, and our students need to become familiar with Linux.
+It is clear that, when we are talking about platform support, the majority of resources are directed toward Linux. Windows 10 is becoming less and less relevant in this field, and our students need to become familiar with Linux.
 
 # Our Position on Education
 
