@@ -20,6 +20,8 @@ Our goal is to apply Deep Learning in automating and developing more accurate, f
 
 Deep learning has proven to be an extremely effective technique for a broad range of computer vision task, especially in medicine. It is often more important to have a deep understanding of the data than it is to have a PhD in statistics and, as a result, there is a high, unfilled demand for data scientists with a background in medicine. We hope that students on this project will continue to develop in this field after graduating from VEF.
 
+You can read more about the importance of deep learning in veterinary medicine in this blog post: [Why Veterinary Medicine Desperately Needs Deep Learning](https://medium.com/@kvinicki/why-veterinary-medicine-desperately-needs-deep-learning-daf1785f2146)
+
 It is important to remember that this is first and foremost a student project. To keep our students highly motivated, it is crucial to give them an opportunity to work on meaningful projects. We are always trying to choose problems that are not only important to solve but, once they are solved, can also be tested and used directly for various diagnostic procedures on our department.
 
 We'll be using [Python](https://github.com/department-of-vet-pathology-unizg/tutorials/blob/master/README.md#Python) as our programming language, [Jupyter notebook](https://nbviewer.jupyter.org/github/fastai/course-v3/blob/master/nbs/dl1/00_notebook_tutorial.ipynb) as programming environment and [Linux](https://github.com/department-of-vet-pathology-unizg/tutorials/blob/master/README.md#Linux) as OS.
