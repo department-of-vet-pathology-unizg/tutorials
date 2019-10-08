@@ -1,6 +1,4 @@
 # List of Tutorials
-[**Python_Introduction.ipynb**](https://nbviewer.jupyter.org/github/department-of-vet-pathology-unizg/tutorials/blob/master/notebooks/Python_Introduction.ipynb)
-
 [**Problem-Solving_Skill.ipynb**](https://nbviewer.jupyter.org/github/department-of-vet-pathology-unizg/tutorials/blob/master/notebooks/Problem-Solving_Skill.ipynb)
 
 [**Microscope_Automation.ipynb**](https://nbviewer.jupyter.org/github/department-of-vet-pathology-unizg/tutorials/blob/master/notebooks/Microscope_Automation.ipynb)
@@ -29,7 +27,26 @@ We'll be using [Python](https://github.com/department-of-vet-pathology-unizg/tut
 
 # Python
 
-Our tutorial [Python_Introduction.ipynb](https://nbviewer.jupyter.org/github/department-of-vet-pathology-unizg/tutorials/blob/master/notebooks/Python_Introduction.ipynb) explains why we are using Python and can also serve as a quick crash course on the Python programming language.
+Python is a high-level programming language, which means that "under the hood", it handles a lot of programming complexity for you. This makes Python not only beginner-friendly, but also ideal for domain experts and students without a prior background in computer science (like vet-med students). Python code is also very clean (readable) and compact - code written in Python is often a couple of times shorter than the same code written in C++ or Java. 
+
+There are a lot of misconceptions about programming. As a vet student, you should think about Python simply as a tool. Python is a very powerful tool on its own, but with the help of a few popular libraries like numpy and OpenCV, it becomes a powerful environment for scientific computing and image processing. At the same time, Python can give us a flexibility that no other software can offer.
+
+### Resources for Learning Python
+
+There are two main resources that we recommend:
+1. You can start by watching [this youtube tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw). It explains all the basics you need to know in only 4 hours. 
+2. As the **main resource** for learning Python we recommend **part I** of the **book [Python Crash Course](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280)**. This book doesn't assume any prior programming experience.
+
+### How to Learn
+
+The test of whether you understand code is not to read it and think "yeah, that makes sense". **The test of whether you understand something is whether you can write it yourself.**
+
+There are at least 3 reasons for this:
+1. Setting something aside and re-creating it forces your brain to [actively recall](https://en.wikipedia.org/wiki/Active_recall) the information, as opposed to passively reviewing. It's the difference between reading a textbook and using flashcards to quiz yourself. Active recall, unlike passive review, has been shown to be efficient in forming long-term memory.
+2. It forces you to think about what step to take next, which ensures that you are thinking carefully about the *process*.
+3. Experimenting with inputs and outputs helps you understand things intuitively.
+
+These learning tips were taken from fast.ai [wiki](http://wiki.fast.ai/index.php/How_to_use_the_Provided_Notebooks)
 
 
 # Linux
