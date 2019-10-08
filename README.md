@@ -62,7 +62,7 @@ We are advocating project-based learning. To keep students highly motivated and 
 
 As a student, your primary goal should be to learn how to solve complex problem in veterinary medicine with Python and Deep Learning. You won't learn how to solve problems by reading the Python Crash Course book or by watching video lessons that we recommended. They are here just for picking some python basics and there is no point in spending more than a couple of weeks on them. 
 
-Your first task after learning python basics will be to automate a microscope and [create a microscope slide scanner](https://nbviewer.jupyter.org/github/department-of-vet-pathology-unizg/tutorials/blob/master/notebooks/Microscope_Automation.ipynb). This task will show you just how powerful python is and, more importantly, it will help you develop some general principles for solving complex, real-world problems with python.
+Your first task after learning python basics will be to [automate a microscope](https://nbviewer.jupyter.org/github/department-of-vet-pathology-unizg/tutorials/blob/master/notebooks/Microscope_Automation.ipynb) and create a microscope slide scanner. This task will show you just how powerful python is and, more importantly, it will help you develop some general principles for solving complex, real-world problems with python.
 
 Just as with any new skill, when starting with programming, you need to go to "begginer mode" and accept just how much you suck at this new skill. That is ok. Learning to program is a process and we are always here to help you with it.
 
