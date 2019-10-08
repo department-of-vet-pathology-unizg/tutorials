@@ -34,7 +34,7 @@ There are a lot of misconceptions about programming. As a vet student, you shoul
 ### Resources for Learning Python
 
 There are two main resources that we recommend:
-1. You can start by watching [this youtube tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw). It explains all the basics you need to know in only 4 hours. 
+1. If you prefer video lessons, you can start by watching [this youtube tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw). It explains all the basics you need to know in only 4 hours. 
 2. As the **main resource** for learning Python we recommend **part I** of the **book [Python Crash Course](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280)**. This book doesn't assume any prior programming experience.
 
 ### How to Learn
