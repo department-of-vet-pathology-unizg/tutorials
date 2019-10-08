@@ -20,8 +20,6 @@ Deep learning has proven to be an extremely effective technique for a broad rang
 
 You can read more about the importance of deep learning in veterinary medicine in this blog post: [Why Veterinary Medicine Desperately Needs Deep Learning](https://medium.com/@kvinicki/why-veterinary-medicine-desperately-needs-deep-learning-daf1785f2146)
 
-It is important to remember that this is first and foremost a student project. To keep our students highly motivated, it is crucial to give them an opportunity to work on meaningful projects. We are always trying to choose problems that are not only important to solve but, once they are solved, can also be tested and used directly for various diagnostic procedures on our department.
-
 We'll be using [Python](https://github.com/department-of-vet-pathology-unizg/tutorials/blob/master/README.md#Python) as our programming language, [Jupyter notebook](https://nbviewer.jupyter.org/github/fastai/course-v3/blob/master/nbs/dl1/00_notebook_tutorial.ipynb) as programming environment and [Linux](https://github.com/department-of-vet-pathology-unizg/tutorials/blob/master/README.md#Linux) as OS.
 
 
@@ -57,7 +55,18 @@ In data science, Linux is the standard. A majority of data science companies are
 
 It is clear that, when we are talking about platform support, the majority of resources are directed toward Linux. Windows 10 is becoming less and less relevant in this field, and our students need to become familiar with Linux.
 
+
 # Our Position on Education
+
+We are advocating project-based learning. To keep students highly motivated and create a rewarding learning experience, it is crucial to allow them to work on meaningful projects. We are always trying to choose problems that are not only important to solve but, once they are solved, can also be tested and used directly for various diagnostic procedures on our department.
+
+As a student, your primary goal should be to learn how to solve complex problem in veterinary medicine with Python and Deep Learning. You won't learn how to solve problems by reading the Python Crash Course book or by watching video lessons that we recommended. They are here just for picking some python basics and there is no point in spending more than a couple of weeks on them. 
+
+Your first task after learning python basics will be to automate a microscope and [create a microscope slide scanner](https://nbviewer.jupyter.org/github/department-of-vet-pathology-unizg/tutorials/blob/master/notebooks/Microscope_Automation.ipynb). This task will show you just how powerful python is and, more importantly, it will help you develop some general principles for solving complex, real-world problems with python.
+
+Just as with any new skill, when starting with programming, you need to go to "begginer mode" and accept just how much you suck at this new skill. That is ok. Learning to program is a process and we are always here to help you with it.
+
+### Community
 
 There is a profound change in the way how generations that grew up on the Internet define freedom and community. Today's education should reflect that!
 
