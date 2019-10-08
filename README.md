@@ -34,8 +34,8 @@ There are a lot of misconceptions about programming. As a vet student, you shoul
 ### Resources for Learning Python
 
 There are two main resources that we recommend:
-1. If you prefer video lessons, you can start by watching [this youtube tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw). It explains all the basics you need to know in only 4 hours. 
-2. As the **main resource** for learning Python we recommend **part I** of the **book [Python Crash Course](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280)**. This book doesn't assume any prior programming experience.
+1.  As the **main resource** for learning Python we recommend **part I** of the **book [Python Crash Course](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280)**. This book doesn't assume any prior programming experience.
+2. If you prefer video lessons, you can start by watching [this youtube tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw). It explains all the basics you need to know in only 4 hours. 
 
 ### How to Learn
 
@@ -54,8 +54,6 @@ These learning tips were taken from fast.ai [wiki](http://wiki.fast.ai/index.php
 In data science, Linux is the standard. A majority of data science companies are using Linux as their primary OS. As a result, libraries that we will be using are also more stable and faster on Linux than on Windows. For example, this is a paragraph taken from fast.ai (deep learning library) GitHub page:
 
 "_fastai v1 currently **supports Linux only**, and requires PyTorch v1 and Python 3.6 or later. Windows support is at an experimental stage: it should work fine but it's much slower and less well tested. Since Macs don't currently have good Nvidia GPU support, we do not currently prioritize Mac development._"
-
-Compared to Windows, Linux is also faster in everyday tasks. Take a look at a [Clear Linux](https://clearlinux.org/about), a Linux OS developed by Intel. It is ridiculously fast.
 
 It is clear that, when we are talking about platform support, the majority of resources are directed toward Linux. Windows 10 is becoming less and less relevant in this field, and our students need to become familiar with Linux.
 
