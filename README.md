@@ -60,7 +60,7 @@ It is clear that, when we are talking about platform support, the majority of re
 
 We are advocating project-based learning. To keep students highly motivated and create a rewarding learning experience, it is crucial to allow them to work on meaningful projects. We are always trying to choose problems that are not only important to solve but, once they are solved, can also be tested and used directly for various diagnostic procedures on our department.
 
-As a student, your primary goal should be to learn how to solve complex problems in veterinary medicine with Python and Deep Learning. You won't learn this by reading the Python Crash Course book or by watching video lessons that we recommended. They are here just for picking some python basics and there is no point in spending more than a couple of weeks on that. 
+As a student, your primary goal should be to learn how to solve complex problems in veterinary medicine with Python and Deep Learning. You won't learn this by reading the Python Crash Course book or by watching video lessons though. They are here just for picking some python basics and there is no point in spending more than a couple of weeks on that. 
 
 Your first task after going through some basics will be to [automate a microscope](https://nbviewer.jupyter.org/github/department-of-vet-pathology-unizg/tutorials/blob/master/notebooks/Microscope_Automation.ipynb) and create a microscope slide scanner. This task will show you just how powerful python is and, more importantly, it will help you develop some general principles for solving complex, real-world problems with python.
 
