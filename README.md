@@ -64,7 +64,6 @@ As a student, your primary goal should be to learn how to solve complex problems
 
 Your first task after going through some basics will be to [automate a microscope](https://nbviewer.jupyter.org/github/department-of-vet-pathology-unizg/tutorials/blob/master/notebooks/Microscope_Automation.ipynb) and create a microscope slide scanner. This task will show you just how powerful python is and, more importantly, it will help you develop some general principles for solving complex, real-world problems with python.
 
-Just as with any new skill, when starting with programming, you need to go to "beginner mode" and accept just how much you suck at this new skill. That is ok. Learning to program is a process and we are always here to help you with it.
 
 ### Community
 
