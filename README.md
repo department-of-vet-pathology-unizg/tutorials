@@ -16,7 +16,7 @@
 
 Our goal is to apply Deep Learning in automating and developing more accurate, faster and less expensive diagnostic procedures in pathology. Deep learning is a set of algorithms that enables a computer to learn something from previous examples, in a way similar to how humans learn. For this reason, in media they are more often called "Artificial Intelligence".
 
-Deep learning has proven to be an extremely effective technique for a broad range of computer vision task, especially in medicine. It is often more important to have a deep understanding of the data than it is to have a PhD in statistics and, as a result, there is a high, unfilled demand for data scientists with a background in medicine. We hope that students on this project will continue to develop in this field after graduating from VEF.
+Deep learning has proven to be an extremely effective technique for a broad range of computer vision tasks, especially in medicine. As it is often far more important to have a deep understanding of the data than it is to have a PhD in statistics, there is a high, unfilled demand for data scientists with a background in medicine. We hope that students on this project will continue to develop in this field after graduating from VEF.
 
 You can read more about the importance of deep learning in veterinary medicine in this blog post: [Why Veterinary Medicine Desperately Needs Deep Learning](https://medium.com/@kvinicki/why-veterinary-medicine-desperately-needs-deep-learning-daf1785f2146)
 
@@ -33,7 +33,7 @@ There are a lot of misconceptions about programming. As a vet student, you shoul
 
 There are two main resources that we recommend:
 1.  As the **main resource** for learning Python we recommend **part I** of the **book [Python Crash Course](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280)**. This book doesn't assume any prior programming experience.
-2. If you prefer video lessons, you can start by watching [this youtube tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw). It explains all the basics you need to know in only 4 hours. 
+2. If you prefer video lessons, you can watch [this youtube tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw). It explains all the basics you need to know in only 4 hours. 
 
 ### How to Learn
 
@@ -44,7 +44,7 @@ There are at least 3 reasons for this:
 2. It forces you to think about what step to take next, which ensures that you are thinking carefully about the *process*.
 3. Experimenting with inputs and outputs helps you understand things intuitively.
 
-These learning tips were taken from fast.ai [wiki](http://wiki.fast.ai/index.php/How_to_use_the_Provided_Notebooks)
+_These learning tips were taken from fast.ai [wiki](http://wiki.fast.ai/index.php/How_to_use_the_Provided_Notebooks)_
 
 
 # Linux
@@ -60,9 +60,9 @@ It is clear that, when we are talking about platform support, the majority of re
 
 We are advocating project-based learning. To keep students highly motivated and create a rewarding learning experience, it is crucial to allow them to work on meaningful projects. We are always trying to choose problems that are not only important to solve but, once they are solved, can also be tested and used directly for various diagnostic procedures on our department.
 
-As a student, your primary goal should be to learn how to solve complex problems in veterinary medicine with Python and Deep Learning. You won't learn this by reading the Python Crash Course book or by watching video lessons though. They are here just for picking some python basics and there is no point in spending more than a couple of weeks on that. 
+As a student, your primary goal should be to learn how to solve complex problems in veterinary medicine with Python and Deep Learning. You won't learn this by reading the Python Crash Course book or by watching video lessons though. They are here just for picking some python basics. 
 
-Your first task after going through some basics will be to [automate a microscope](https://nbviewer.jupyter.org/github/department-of-vet-pathology-unizg/tutorials/blob/master/notebooks/Microscope_Automation.ipynb) and create a microscope slide scanner. This task will show you just how powerful python is and, more importantly, it will help you develop some general principles for solving complex, real-world problems with python.
+Your first task will be to [automate a microscope](https://nbviewer.jupyter.org/github/department-of-vet-pathology-unizg/tutorials/blob/master/notebooks/Microscope_Automation.ipynb) and create a microscope slide scanner. This task will show you just how powerful python is and, more importantly, it will help you develop some general principles for solving complex, real-world problems with python.
 
 
 ### Community
@@ -75,4 +75,4 @@ For the generations that are now entering higher education, on the other hand, b
 
 Education should be a shared experience. The teacher is important as a facilitator and guide, but the students have to teach each other. This project is designed in the way to facilitate that process and every student is encouraged to write and publish tutorials that could benefit himself and others.
 
-*This text is adapted from _The Third Industrial Revolution_ by _Jeremy Rifkin_.
+*This section is adapted from _The Third Industrial Revolution_ by _Jeremy Rifkin_.
