@@ -35,7 +35,7 @@ There are two main resources that we recommend:
 1.  As the **main resource** for learning Python we recommend **part I** of the **book [Python Crash Course](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280)**. This book doesn't assume any prior programming experience.
 2. If you prefer video lessons, you can watch [this youtube tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw). It explains all the basics you need to know in only 4 hours. 
 
-### How to Learn
+### How to Learn*
 
 The test of whether you understand code is not to read it and think "yeah, that makes sense". **The test of whether you understand something is whether you can write it yourself.**
 
@@ -65,7 +65,7 @@ We are advocating project-based learning. To keep students highly motivated and 
 Your first task will be to [automate a microscope](https://nbviewer.jupyter.org/github/department-of-vet-pathology-unizg/tutorials/blob/master/notebooks/Microscope_Automation.ipynb) and create a microscope slide scanner. This task will show you just how powerful Python is and, more importantly, it will help you develop some general principles for solving complex, real-world problems with Python.
 
 
-### Community
+### Community*
 
 There is a profound change in the way how generations that grew up on the Internet define freedom and community. Today's education should reflect that!
 
