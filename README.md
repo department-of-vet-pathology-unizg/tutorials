@@ -62,7 +62,9 @@ As a student, your primary goal should be to learn how to solve complex problems
 
 We are advocating project-based learning. To keep students highly motivated and create a rewarding learning experience, it is crucial to allow them to work on meaningful projects. We are always trying to choose problems that are not only important to solve but, once they are solved, can also be tested and used directly for various diagnostic procedures on our department.
 
-Your first task will be to [automate a microscope](https://nbviewer.jupyter.org/github/department-of-vet-pathology-unizg/tutorials/blob/master/notebooks/Microscope_Automation.ipynb) and create a microscope slide scanner. This task will show you just how powerful Python is and, more importantly, it will help you develop some general principles for solving complex, real-world problems with Python.
+Your first task will be to [automate a microscope](https://nbviewer.jupyter.org/github/department-of-vet-pathology-unizg/tutorials/blob/master/notebooks/Microscope_Automation.ipynb). This task will show you just how powerful Python is and, more importantly, it will help you develop some general principles for solving complex, real-world problems with Python.
+
+With the automated microscope, you will be able to quickly "scan" your slides and collect the images you need for training a neural network.
 
 
 ### Community*
