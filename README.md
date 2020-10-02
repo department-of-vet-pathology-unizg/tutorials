@@ -65,16 +65,3 @@ We are advocating project-based learning. To keep students highly motivated and 
 Your first task will be to [automate a microscope](https://nbviewer.jupyter.org/github/department-of-vet-pathology-unizg/tutorials/blob/master/notebooks/Microscope_Automation.ipynb). This task will show you just how powerful Python is and, more importantly, it will help you develop some general principles for solving complex, real-world problems with Python.
 
 With the automated microscope, you will be able to quickly "scan" your slides and collect the images you need for training a neural network.
-
-
-### Community*
-
-There is a profound change in the way how generations that grew up on the Internet define freedom and community. Today's education should reflect that!
-
-The previous generation's definition of freedom was very simple: to be free is to be an autonomous agent, to be independent, to not be beholden to others so that one can have freedom as exclusivity.
-
-For the generations that are now entering higher education, on the other hand, being an island to oneself is death. This generation asks the question: How can I flourish to the full extent of my possibilities? And it is clear that the answer to that is "I flourish to the extent that I'm embedded in the network after network, after network; community after community, where I can share my talents, and those talents can benefit the network and come back to benefit myself. Therefore, for these generations, freedom is not exclusivity, it's not being an autonomous agent. It's inclusivity. It's access to others in networks."
-
-Education should be a shared experience. The teacher is important as a facilitator and guide, but the students have to teach each other. This project is designed in the way to facilitate that process and every student is encouraged to write and publish tutorials that could benefit himself and others.
-
-*This section is adapted from _The Third Industrial Revolution_ by _Jeremy Rifkin_.
